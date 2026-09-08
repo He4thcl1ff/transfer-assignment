@@ -12,3 +12,7 @@ senior dev DMs me: "what did you do"
 panic
 git reset --hard HEAD~5
 wrong repo
+mfw two teams now do standup in the same voice channel just to find their commits
+git blame
+it's me
+it's always me
