@@ -1,3 +1,3 @@
 # Strenghts
-
+- Fast
 # Weaknesses
