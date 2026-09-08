@@ -1,4 +1,4 @@
-# Strenghts
+# Strengths
 - Fast
 - Uses little memory
 # Weaknesses
